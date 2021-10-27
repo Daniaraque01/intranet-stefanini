@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Daniaraque01/intranet-stefanini.git/static/css/main.31366d3b.chunk.css",
+    "main.js": "/Daniaraque01/intranet-stefanini.git/static/js/main.8945ae1e.chunk.js",
+    "main.js.map": "/Daniaraque01/intranet-stefanini.git/static/js/main.8945ae1e.chunk.js.map",
+    "runtime-main.js": "/Daniaraque01/intranet-stefanini.git/static/js/runtime-main.725806f6.js",
+    "runtime-main.js.map": "/Daniaraque01/intranet-stefanini.git/static/js/runtime-main.725806f6.js.map",
+    "static/css/2.8c0e6b67.chunk.css": "/Daniaraque01/intranet-stefanini.git/static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.094e2ce5.chunk.js": "/Daniaraque01/intranet-stefanini.git/static/js/2.094e2ce5.chunk.js",
+    "static/js/2.094e2ce5.chunk.js.map": "/Daniaraque01/intranet-stefanini.git/static/js/2.094e2ce5.chunk.js.map",
+    "static/js/3.b2ba8675.chunk.js": "/Daniaraque01/intranet-stefanini.git/static/js/3.b2ba8675.chunk.js",
+    "static/js/3.b2ba8675.chunk.js.map": "/Daniaraque01/intranet-stefanini.git/static/js/3.b2ba8675.chunk.js.map",
+    "index.html": "/Daniaraque01/intranet-stefanini.git/index.html",
+    "static/css/2.8c0e6b67.chunk.css.map": "/Daniaraque01/intranet-stefanini.git/static/css/2.8c0e6b67.chunk.css.map",
+    "static/css/main.31366d3b.chunk.css.map": "/Daniaraque01/intranet-stefanini.git/static/css/main.31366d3b.chunk.css.map",
+    "static/js/2.094e2ce5.chunk.js.LICENSE.txt": "/Daniaraque01/intranet-stefanini.git/static/js/2.094e2ce5.chunk.js.LICENSE.txt",
+    "static/media/Footer.css": "/Daniaraque01/intranet-stefanini.git/static/media/BG.3d4cc0e4.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725806f6.js",
+    "static/css/2.8c0e6b67.chunk.css",
+    "static/js/2.094e2ce5.chunk.js",
+    "static/css/main.31366d3b.chunk.css",
+    "static/js/main.8945ae1e.chunk.js"
+  ]
+}
